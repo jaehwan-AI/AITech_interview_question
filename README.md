@@ -7,3 +7,5 @@
 ## [NLP](https://github.com/jaehwan-AI/AITech_interview_question/NLP)
 
 ## [RS](https://github.com/jaehwan-AI/AITech_interview_question/RS)
+
+## [AI Math](https://github.com/jaehwan-AI/AITech_interview_question/AI_Math)
