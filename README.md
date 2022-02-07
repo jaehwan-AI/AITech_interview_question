@@ -23,7 +23,7 @@
 
 
 ## [CS](https://github.com/jaehwan-AI/AITech_interview_question/CS)
-### [Operating System]()
+### [Operating System](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CS/Operating%20System)
 * 프로세스(Process)와 스레드(Thread)의 차이를 설명해 주세요.
 * 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해 주세요.
 * 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해 주세요.
@@ -42,7 +42,7 @@
 * Context Switching에 대해 설명해 주세요. 그리고 그 과정에 대해서도 설명해 주세요.
 * Swapping에 대해 설명해 주세요.
 
-### [Database]()
+### [Database](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CS/Database)
 * PostgreSQL에 대해 설명해 주세요. 그리고 장점에 대해 설명해 주세요.
 * 인덱스는 크게 Hash 인덱스와 B+Tree 인덱스에 대해 설명해 주세요.
 * 인덱스 Scan 방식은 무엇이 있는지 설명해 주세요.
