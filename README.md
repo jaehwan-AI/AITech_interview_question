@@ -32,6 +32,7 @@
 * 가상 메모리(virtual memory)에 대해 설명해 주세요.
 * 메모리 Leak 디버깅에 대해 설명해 주세요.
 * Thread-safe에 대해 설명해 주세요. (hint: critical section)
+* CPU/GPU/TPU/NPU에 대해 설명해 주세요.
 * 뮤텍스(mutex)와 세마포어(semaphore)에 대해 설명해 주세요. 그리고 그 둘의 차이를 설명해 주세요.
 * 스케줄러에 대해 설명해 주세요. 그리고 단기/중기/장기로 나누는 기준에 대해서도 설명해 주세요.
 * CPU 스케줄러인 FCFS, SJF, SRTF, Priority Scheduling, RR에 대해 설명해 주세요.
