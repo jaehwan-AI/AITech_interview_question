@@ -8,4 +8,4 @@
 
 ## [RS](https://github.com/jaehwan-AI/AITech_interview_question/RS)
 
-## [AI Math](https://github.com/jaehwan-AI/AITech_interview_question/AI_Math)
+## [AI Math](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/AI%20Math)
