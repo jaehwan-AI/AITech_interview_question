@@ -23,6 +23,8 @@
 
 
 ## [CS](https://github.com/jaehwan-AI/AITech_interview_question/CS)
+* 객체지향 프로그래밍에 대해 설명해 주세요.
+
 ### [Operating System](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CS/Operating%20System)
 * 프로세스(Process)와 스레드(Thread)의 차이를 설명해 주세요.
 * 멀티 프로세스 대신 멀티 스레드를 사용하는 이유를 설명해 주세요.
