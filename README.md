@@ -22,7 +22,7 @@
 * 민감도(sensitivity)와 특이도(specificity)에 대해 설명해 주세요.
 
 
-## [CS](https://github.com/jaehwan-AI/AITech_interview_question/CS)
+## [CS](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CS)
 * 객체지향 프로그래밍에 대해 설명해 주세요.
 
 ### [Operating System](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CS/Operating%20System)
@@ -61,7 +61,7 @@
 * 빡세게 동작하고 있는 MySQL을 백업하기 위해서는 어떤 방법을 사용해야 하는지 설명해 주세요.
 
 
-## [CV](https://github.com/jaehwan-AI/AITech_interview_question/CV)
+## [CV](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/CV)
 * 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법에 대해 설명해 주세요.
 * Faster R-CNN에 대해 설명해 주세요. 그리고 장점과 단점에 대해서도 설명해 주세요.
 * YOLO에 대해 설명해 주세요. 그리고 장점과 단점에 대해서도 설명해 주세요.
@@ -86,7 +86,7 @@
 * OpenCV 라이브러리만을 사용해서 이미지 뷰어(crop, gray, zoom 등의 기능 포함)는 어떻게 만들 수 있는지 설명해 주세요.
 
 
-## [NLP](https://github.com/jaehwan-AI/AITech_interview_question/NLP)
+## [NLP](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/NLP)
 * One Hot 인코딩에 대해 설명해 주세요.
 * POS 태깅에 대해 설명해 주세요. 그리고 가장 간단하게 POS tagger를 만드는 방법에 대해 설명해 주세요.
 * 문장에서 'Apple'이란 단어가 과일인지 회사인지 식별하는 모델은 어떻게 훈련시킬 수 있는지 설명해 주세요.
@@ -111,7 +111,7 @@
   * 번역을 Unsupervised로 할 수 있는지 설명해 주세요.
 
 
-## [RS](https://github.com/jaehwan-AI/AITech_interview_question/RS)
+## [RS](https://github.com/jaehwan-AI/AITech_interview_question/tree/main/RS)
 * 추천 시스템에서 사용할 수 있는 거리는 무엇이 있는지 설명해 주세요.
 * User-based 추천 시스템과 Item-based 추천 시스템 중 단기간에 빠른 효율을 낼 수 있는 것은 무엇인지 설명해 주세요.
 * 성능 평가를 위해 어떤 지표를 사용할 수 있는지 설명해 주세요.
